@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# 使用loc 函数来选取列
 import pandas as pd
 import sys
 

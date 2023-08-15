@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# 使用pandas 时，可以使用startwith 函数来搜索数据，不用再使用笨重冗长的正则表达式了。
 import pandas as pd
 import sys
 

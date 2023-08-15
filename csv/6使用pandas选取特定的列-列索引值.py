@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# 这里使用了iloc函数来根据索引位置选取列。
 import pandas as pd
 import sys
 
